@@ -1,5 +1,7 @@
 #  Teste técnico Pessoa Desenvolvedora Front-end Júnior
 
+Link para aplicação: https://alura-space-seven-ashy.vercel.app/
+
 Seja bem-vindo! Este desafio foi projetado para avaliar a capacidade técnica de candidatos às nossas vagas.  Neste repositório você encontra o enunciado do desafio para a vaga de Pessoa Desenvolvedora Front-end Júnior da [Alura Space](https://www.alura.com.br/)!
 
 ##  Desafio
